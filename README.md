@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Debasish Vishal</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h3 align="center">A passionate fullstack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debasish121&label=Profile%20views&color=0e75b6&style=flat" alt="debasish121" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 📄 Resume [https://drive.google.com/file/d/1WkKGo7sB5-sGNxTRCSsflIw0F43XIy6U/view](https://drive.google.com/file/d/1WkKGo7sB5-sGNxTRCSsflIw0F43XIy6U/view)
 
-- ⚡ Fun fact **Switching to your pistol is always faster than reloading.**
+- ⚡ Fun fact : **Switching to your pistol is always faster than reloading.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
