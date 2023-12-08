@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Debasish Vishal</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
-<img align="right" alt="Coding" width="400" height="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" height="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debasish121&label=Profile%20views&color=0e75b6&style=flat" alt="debasish121" /> </p>
 
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **official.debasish.vishal@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1KqBQimW6_jTCBkYxUNhRlZhx3skT71DY/view?usp=share_link](https://drive.google.com/file/d/1KqBQimW6_jTCBkYxUNhRlZhx3skT71DY/view?usp=share_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1KqBQimW6_jTCBkYxUNhRlZhx3skT71DY/view?usp=share_link)
 
 - ⚡ Fun fact **Switching to your pistol is always faster than reloading**
 
