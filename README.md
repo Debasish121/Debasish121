@@ -19,11 +19,85 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/debasish-vishal-21352b199/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/debasish-vishal-21352b199/" height="30" width="40" /></a>
+  <a href="YOUR_LINKEDIN_PROFILE_URL_HERE" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
 
+
+
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="left">
+  <!-- Programming Languages -->
+  <a href="https://camo.githubusercontent.com/URL_TO_C_ICON" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="40" height="40"/>
+  </a>
+  <a href="https://camo.githubusercontent.com/URL_TO_CPP_ICON" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="40" height="40"/>
+  </a>
+  <a href="https://camo.githubusercontent.com/URL_TO_PYTHON_ICON" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40"/>
+  </a>
+  <a href="https://camo.githubusercontent.com/URL_TO_JAVA_ICON" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="40" height="40"/>
+  </a>
+  <a href="https://camo.githubusercontent.com/URL_TO_HTML_ICON" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML" width="40" height="40"/>
+  </a>
+  <a href="https://camo.githubusercontent.com/URL_TO_CSS_ICON" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="40" height="40"/>
+  </a>
+  <a href="https://camo.githubusercontent.com/URL_TO_JS_ICON" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" width="40" height="40"/>
+  </a>
+  <a href="https://camo.githubusercontent.com/URL_TO_SQL_ICON" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="40" height="40"/>
+  </a>
+
+  <!-- Frameworks/Libraries -->
+  <a href="https://camo.githubusercontent.com/URL_TO_EXPRESS_ICON" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Express.js" width="40" height="40"/>
+  </a>
+  <a href="https://camo.githubusercontent.com/URL_TO_REACT_ICON" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/ultraviolet/40/000000/react.png" alt="React.js" width="40" height="40"/>
+  </a>
+  <a href="https://camo.githubusercontent.com/URL_TO_SPRING_ICON" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring" width="40" height="40"/>
+  </a>
+
+  <!-- Databases/Tools -->
+  <a href="https://camo.githubusercontent.com/URL_TO_MYSQL_ICON" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="40" height="40"/>
+  </a>
+  <a href="https://camo.githubusercontent.com/URL_TO_NODE_ICON" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="40" height="40"/>
+  </a>
+  <a href="https://camo.githubusercontent.com/URL_TO_MONGODB_ICON" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="40" height="40"/>
+  </a>
+
+  <!-- IDEs/Tools -->
+  <a href="https://camo.githubusercontent.com/URL_TO_VSCODE_ICON" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" width="40" height="40"/>
+  </a>
+  <a href="https://camo.githubusercontent.com/URL_TO_INTELLIJ_ICON" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="IntelliJ IDEA" width="40" height="40"/>
+  </a>
+  <a href="https://camo.githubusercontent.com/URL_TO_MYSQL_WORKBENCH_ICON" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL Workbench" width="40" height="40"/>
+  </a>
+  <a href="https://camo.githubusercontent.com/URL_TO_GITHUB_ICON" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" width="40" height="40"/>
+  </a>
+  <a href="https://camo.githubusercontent.com/URL_TO_BITBUCKET_ICON" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/bitbucket.png" alt="Bitbucket" width="40" height="40"/>
+  </a>
+  <a href="https://camo.githubusercontent.com/URL_TO_GOOGLE_COLLAB_ICON" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/google-colab.png" alt="Google Colab" width="40" height="40"/>
+  </a>
+  
+</p>
+
 
 
 <p align="left"> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=debasish121&show_icons=true&locale=en&layout=compact&theme=dark" alt="debasish121" /> </p>
