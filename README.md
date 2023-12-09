@@ -29,73 +29,51 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <!-- Programming Languages -->
-  <a href="https://camo.githubusercontent.com/URL_TO_C_ICON" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="40" height="40"/>
-  </a>
-  <a href="https://camo.githubusercontent.com/URL_TO_CPP_ICON" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="40" height="40"/>
-  </a>
-  <a href="https://camo.githubusercontent.com/URL_TO_PYTHON_ICON" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://camo.githubusercontent.com/URL_TO_JAVA_ICON" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://camo.githubusercontent.com/URL_TO_HTML_ICON" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML" width="40" height="40"/>
-  </a>
-  <a href="https://camo.githubusercontent.com/URL_TO_CSS_ICON" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="40" height="40"/>
-  </a>
-  <a href="https://camo.githubusercontent.com/URL_TO_JS_ICON" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://camo.githubusercontent.com/URL_TO_SQL_ICON" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="40" height="40"/>
-  </a>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
+  <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 
   <!-- Frameworks/Libraries -->
-  <a href="https://camo.githubusercontent.com/URL_TO_EXPRESS_ICON" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Express.js" width="40" height="40"/>
-  </a>
-  <a href="https://camo.githubusercontent.com/URL_TO_REACT_ICON" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/ultraviolet/40/000000/react.png" alt="React.js" width="40" height="40"/>
-  </a>
-  <a href="https://camo.githubusercontent.com/URL_TO_SPRING_ICON" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring" width="40" height="40"/>
-  </a>
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+
+  <!-- Machine Learning -->
+  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />
 
   <!-- Databases/Tools -->
-  <a href="https://camo.githubusercontent.com/URL_TO_MYSQL_ICON" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://camo.githubusercontent.com/URL_TO_NODE_ICON" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://camo.githubusercontent.com/URL_TO_MONGODB_ICON" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="40" height="40"/>
-  </a>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 
   <!-- IDEs/Tools -->
-  <a href="https://camo.githubusercontent.com/URL_TO_VSCODE_ICON" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" width="40" height="40"/>
-  </a>
-  <a href="https://camo.githubusercontent.com/URL_TO_INTELLIJ_ICON" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="IntelliJ IDEA" width="40" height="40"/>
-  </a>
-  <a href="https://camo.githubusercontent.com/URL_TO_MYSQL_WORKBENCH_ICON" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL Workbench" width="40" height="40"/>
-  </a>
-  <a href="https://camo.githubusercontent.com/URL_TO_GITHUB_ICON" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" width="40" height="40"/>
-  </a>
-  <a href="https://camo.githubusercontent.com/URL_TO_BITBUCKET_ICON" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/bitbucket.png" alt="Bitbucket" width="40" height="40"/>
-  </a>
-  <a href="https://camo.githubusercontent.com/URL_TO_GOOGLE_COLLAB_ICON" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/google-colab.png" alt="Google Colab" width="40" height="40"/>
-  </a>
-  
+  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white" />
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
+  <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+ 
 </p>
 
 
